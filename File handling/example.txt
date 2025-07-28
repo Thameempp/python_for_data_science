@@ -1,2 +1,2 @@
 Hello World
-text in new line
+This is a text file which used in file handling
